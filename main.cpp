@@ -1,5 +1,5 @@
 #include<iostream>
-#include"resolve.h"
+#include"solve.h"
 int main(){
     hdoj1097();
 }
